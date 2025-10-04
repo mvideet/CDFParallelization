@@ -1,4 +1,4 @@
-# HackMIT 2025 Technical Challenge Winner & Voloridge $5K prize Winning Code: Statistical Computing & GPU Acceleration 
+# HackMIT 2025 Most Technical Project & Voloridge $5K prize Winning Code: Statistical Computing & GPU Acceleration 
 
 Videet Mehta and Advay Goel
 
