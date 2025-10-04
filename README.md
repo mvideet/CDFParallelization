@@ -1,4 +1,6 @@
-# HackMIT 2025: Statistical Computing & GPU Acceleration Videet Mehta and Advay Goel
+# HackMIT 2025 Technical Challenge Winner & Volorige $5K prize Winning Code: Statistical Computing & GPU Acceleration 
+
+Videet Mehta and Advay Goel
 
 ## What This Project Does
 
