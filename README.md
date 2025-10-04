@@ -33,9 +33,9 @@ nvcc -o gaussians gaussians.cu -lcurand
 ./gaussians
 ```
 
-## Performance Results
+## Performance Results (H100)
 
-We tested 5 different statistical computation methods on GPU:
+We tested 5 different statistical computation methods on an H100 GPU:
 
 | Method | Runtime | Speedup vs Python |
 |--------|---------|-------------------|
